@@ -4,6 +4,6 @@ This repository contains the code and data used for my master's dissertation pro
 
 ## Key Features
 
-- **Gene Regulatory Network Analysis**: Identification and analysis of cell-type specific GRNs in single-cell RNA sequencing data from PBMCs.
+- **Gene Regulatory Network Analysis**: Identification and analysis of cell-type specific GRNs using single-cell RNA sequencing data from PBMCs.
 - **In Silico Knockout Simulations**: Simulation of gene knockouts, specifically targeting the EP300 gene, to study its impact on cellular pathways and development of Megakaryocytes.
 - **CellOracle Tool**: Utilization of the CellOracle tool for GRN inference and knockout simulation.
